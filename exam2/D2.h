@@ -11,6 +11,11 @@ public:
 		d2 = x;
 
 	}
+	void showD2() const {
+		cout << "d2: " << d2 << endl;
+		B3_show();
+
+	}
 
 
 };
