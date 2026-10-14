@@ -29,5 +29,14 @@
     <ClInclude Include="B3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="D1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
