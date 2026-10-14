@@ -2,14 +2,14 @@
 #include <iostream>
 using namespace std;
 
-class B1 {
+class B2 {
 	int b2;
 public:
-	B1(int x) {
+	B2(int x) {
 		b2 = x;
 
 	}
-	void B1_show() const {
+	void B2_show() const {
 		cout << "B2: " << b2 << endl;
 	}
 };
