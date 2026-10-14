@@ -12,7 +12,7 @@ public:
 
 	}
 	void showD2() const {
-		cout << "d2: " << d2 << endl;
+		cout << "D2: " << d2 << endl;
 		B3_show();
 
 	}

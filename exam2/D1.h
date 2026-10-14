@@ -11,7 +11,7 @@ public:
 		d1 = x;
 	}
 	void showD1()const {
-		cout << "d1: " << d1 << endl;
+		cout << "D1: " << d1 << endl;
 		B1_show();
 		B2_show();
 		
