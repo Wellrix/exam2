@@ -10,6 +10,12 @@ public:
 	D1(int x, int y, int z) :B1(y), B2(z) {
 		d1 = x;
 	}
+	void showD1()const {
+		cout << "d1: " << d1 << endl;
+		B1_show();
+		B2_show();
+		
+	}
 
 
 };
