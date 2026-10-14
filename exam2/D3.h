@@ -11,5 +11,10 @@ public:
 	D3(int x, int y, int z, int i, int j, int k) : D1(y, z, i), D2(j, k) {
 		d3 = x;
 	}
+	void show_D3() {
+		cout << "D3: " << d3 << "\n";
+		showD1();
+		showD2();
+	}
 
 };
